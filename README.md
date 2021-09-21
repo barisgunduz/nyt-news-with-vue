@@ -4,4 +4,4 @@ How to build a simple news app that will show the top news articles of the day, 
 
 ## New York Times API
 
-- [NYT API](https://developer.nytimes.com//)
+- [NYT API](https://developer.nytimes.com/)
